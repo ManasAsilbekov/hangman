@@ -125,7 +125,7 @@ while wrong < MAX_WRONG and so_far != word:
         print(popytki)
 if wrong == MAX_WRONG:
     print(HANGMAN[wrong])
-    print("\nЧеловеска повесили!")
+    print("\nЧеловечка повесили!")
     
 else:
     print("\nВы отгадали!")
